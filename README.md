@@ -1,4 +1,3 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hassen-gadacha.hassen-gadacha">
 <h1 align="center">Hi 👋, I'm Hassen Gadacha</h1>
 <h3 align="center">A passionate software engineer from Tunisia</h3>
