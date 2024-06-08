@@ -1,12 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hassen-gadacha.hassen-gadacha">
 <h1 align="center">Hi 👋, I'm Hassen Gadacha</h1>
-<h3 align="center">A passionate software engineer from Tunisia</h3>
+<h3 align="center">A passionate computer Science Engineer from Tunisia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassen-gadacha&label=Profile%20views&color=0e75b6&style=flat" alt="hassen-gadacha" /> </p>
 
-- 🌱 I’m currently learning **React ,Deep learning**
+- 🌱 I’m currently learning **NLP ,Deep learning**
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, SQL**
+- 💬 Ask me about **HTML, CSS, JS, C++, SOLIDITY, SQL**
 
 - 📫 How to reach me **hassen.gadacha@ensi-uma.tn**
 
